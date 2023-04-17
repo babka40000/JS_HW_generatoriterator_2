@@ -1,0 +1,1 @@
+!function(){"use strict";class s{constructor(){this.chars=[]}add(s){this.chars.push(s)}*[Symbol.iterator](){for(const s of this.chars)yield s}}}();
